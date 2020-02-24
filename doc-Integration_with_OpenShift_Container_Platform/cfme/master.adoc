@@ -1,5 +1,5 @@
 = Integration with OpenShift Container Platform
-:vernum: 5.0
+:vernum: 4.7
 :doctype: article
 :imagesdir: images
 :toc: left
